@@ -1,6 +1,6 @@
 const Experience: React.FC = () => {
     return (
-        <main>
+        <main className="animate-fadeIn p-6">
             <header className="m-4">
                 <h1 className="text-center text-xl">Experience</h1>
             </header>
